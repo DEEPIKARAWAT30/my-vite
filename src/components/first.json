@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "date": "21 Mar, 2024",
+    "title": "Gaming Earbuds for Travel: Compact and Portable Gaming Solutions",
+    "description": "When nothing can stop a gamer from entering the arena, we’ve got gaming earbuds so they never miss a beat.",
+    "image": "https://www.boat-lifestyle.com/cdn/shop/articles/Gaming_Earbuds_Blog_Banner.jpg"
+  },
+  {
+    "id": 2,
+    "date": "08 Mar, 2024",
+    "title": "How To Create Watch Faces Using The Watch Face Studio",
+    "description": "Why stick to a few watch faces on your smartwatch when you can create your own? Here's how to start.",
+    "image": "https://www.boat-lifestyle.com/cdn/shop/articles/Watch_Face_Blog.jpg"
+  },
+  {
+    "id": 3,
+    "date": "13 Mar, 2024",
+    "title": "ANC for Work: How Noise-Cancelling Headphones Can Boost Productivity",
+    "description": "Noise at work can be annoying sometimes. But don’t worry, we’ve got the solution for you.",
+    "image": "https://www.boat-lifestyle.com/cdn/shop/articles/ANC_Blog.jpg"
+  },
+  {
+    "id": 4,
+    "date": "07 Jan, 2025",
+    "title": "Top 5 Benefits of Having a Dolby Soundbar in Your Home",
+    "description": "Here are the top 5 benefits of having a Dolby Soundbar and why it's a must-have in every home.",
+    "image": "https://www.boat-lifestyle.com/cdn/shop/articles/Soundbar_Blog.jpg"
+  }
+]
