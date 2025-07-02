@@ -17,7 +17,7 @@ function Log() {
                 <div className=' w-1/2  bg-indigo-800 h-full flex flex-col  '>
                     <h2 className='text-5xl my-1 text-center font-extrabold mb-7 mt-4 text-white'>Create a account</h2>
                     <p className="text-lg  text-red-400 mb-6 px-7 cursor-pointer">
-                        Already have an account? <span className="text-gray-400 cursor-pointer border-b-1">Log in</span>
+                       i have no account? <span className="text-gray-400 cursor-pointer border-b-1">Log in</span>
                     </p>
                     <form className='flex flex-col items-center justify-center gap-4 px-7'>
                         <input
